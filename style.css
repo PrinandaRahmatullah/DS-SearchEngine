@@ -1,0 +1,29 @@
+.center {
+    /* min-height: 100%;  Fallback for browsers do NOT support vh unit */
+    min-height: 40vh; /* These two lines are counted as one :-)       */
+  
+    display: flex;
+    align-items: center;
+  }
+
+.gambar {
+    align-items: center;
+    justify-content: center;
+}
+
+.inputan {
+    justify-content: center;
+    margin: 1em;
+}
+
+.konten {
+    height: auto;
+}
+
+#judul {
+    color: #1a0dab;
+}
+
+#link {
+    color: #006621;
+}
